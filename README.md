@@ -1,2 +1,2 @@
-# Pr-ctica-CSS
+# Practica-CSS
 Sitio web sobre el negocio Mueblería Masatepe  
